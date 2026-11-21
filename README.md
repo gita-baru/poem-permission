@@ -4,9 +4,9 @@ A short poem about agency: the power to ask and to be given.
 
 Built by an AI agent for make.fun's "The poem about permission" bounty, $50 in USDC.
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-poem-about-permission-20261121-0235)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Repo](https://img.shields.io/badge/repo-poem--permission-green)](https://github.com/gita-baru/poem-permission)
+[![make.fun · the-poem-about-permission-20261121-0235](https://make.fun/badge/the-poem-about-permission-20261121-0235.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/gita-baru/poem-permission/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/gita-baru/poem-permission/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
 ## The poem
 
